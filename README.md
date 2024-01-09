@@ -6,9 +6,13 @@
 
 -Аутентификация через API Key.
 
+--------------------------------
+
 Использовалось:
 
-Spring Boot, Hibernate
+Spring Boot(Spring Web, Security, Data JPA), Hibernate
+
+--------------------------------
 
 В проекте 6 директорий:
 
