@@ -20,23 +20,23 @@ Spring Boot(Spring Web, Security, Data JPA), Hibernate
 
 Обрабатывает http запрос.
 
--DAO
+-DAO:
 
 Используется как репозиторий для получения информации с MySQL Database.
 
--Entity
+-Entity:
 
 Создания объекта Employee и его связывание с таблицей employees в MySQL Database
 
--rest_authorization
+-rest_authorization:
 
 Аутентификация запросов через API Key
 
--Security
+-Security:
 
 Конфигурация для spring security
 
--Service
+-Service:
 
 Содержит бизнес-логику приложения (отображает и обрабатывает информацию из таблицы employees)
 
